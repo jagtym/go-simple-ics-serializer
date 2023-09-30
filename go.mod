@@ -1,3 +1,5 @@
-module go-simple-ical-serializer
+module github.com/jagtym/go-simple-ics-serializer
 
 go 1.20
+
+require github.com/google/go-cmp v0.5.9
